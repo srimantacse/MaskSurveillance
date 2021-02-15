@@ -10,5 +10,12 @@ This data set specially takes care the below use cases
 2. Side-face images
 3. Hand-covered faces
 
+# Sample images
+Few sample images
+![Alt text](samples/sample_1.PNG?raw=true "Sample images in the data set")
+
+On-road surveillance
+![Alt text](samples/sample_2.PNG?raw=true "On-road surveillance")
+
 # Baseline data set
 https://github.com/prajnasb/observations/tree/master/experiements/data
