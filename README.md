@@ -9,6 +9,8 @@ This data set specially takes care the below use cases
 1. Low resolution images
 2. Side-face images
 3. Hand-covered faces
+4. Tiny face images
+5. Inside vehicle use cases
 
 # Sample images
 Few sample images
@@ -17,5 +19,5 @@ Few sample images
 On-road surveillance
 ![Alt text](samples/sample_2.PNG?raw=true "On-road surveillance")
 
-# Baseline data set
-https://github.com/prajnasb/observations/tree/master/experiements/data
+# Please refer the below reference while using the data set
+<!-- + https://github.com/prajnasb/observations/tree/master/experiements/data + -->
