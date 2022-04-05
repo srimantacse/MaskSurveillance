@@ -18,7 +18,7 @@ This data set specially takes care the below use cases
 <img width="300" height="300" src="samples/sample_1.PNG"/>
 
 # On-road surveillance image sample
-<img width="600" height="300" src="samples/sample_2.PNG"/>
+<img width="620" height="250" src="samples/sample_2.PNG"/>
 
 # Citation
 Please refer the below paper while using the data set.
