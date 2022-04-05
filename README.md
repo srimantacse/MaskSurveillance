@@ -15,11 +15,10 @@ This data set specially takes care the below use cases
 7. Mirror reflected images
 
 # Sample images
-Few sample images
-<img width="300" height="300" src="amples/sample_1.PNG"/>
+<img width="300" height="300" src="samples/sample_1.PNG"/>
 
 # On-road surveillance image sample
-<img width="600" height="300" src="amples/sample_2.PNG"/>
+<img width="600" height="300" src="samples/sample_2.PNG"/>
 
 # Citation
 Please refer the below paper while using the data set.
