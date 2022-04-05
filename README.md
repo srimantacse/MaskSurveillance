@@ -11,13 +11,15 @@ This data set specially takes care the below use cases
 3. Hand-covered faces
 4. Tiny face images
 5. Inside vehicle use cases
+6. Night Mode hazy images
+7. Mirror reflected images
 
 # Sample images
 Few sample images
-![Alt text](samples/sample_1.PNG?raw=true "Sample images in the data set")
+<img width="300" height="300" src="amples/sample_1.PNG"/>
 
-On-road surveillance
-![Alt text](samples/sample_2.PNG?raw=true "On-road surveillance")
+# On-road surveillance image sample
+<img width="600" height="300" src="amples/sample_2.PNG"/>
 
 # Citation
 Please refer the below paper while using the data set.
