@@ -27,4 +27,11 @@ This data set specially takes care the below use cases
 # Citation
 Please refer the below paper while using the data set.
 >> Will be updted shortly
-<!-- + https://github.com/prajnasb/observations/tree/master/experiements/data + -->
+@article{kundu2022passenger,
+  title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},
+  author={Kundu, Srimanta and Maulik, Ujjwal},
+  journal={Transactions of the Indian National Academy of Engineering},
+  pages={1--15},
+  year={2022},
+  publisher={Springer}
+}
