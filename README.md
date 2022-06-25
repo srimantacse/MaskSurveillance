@@ -33,7 +33,14 @@ Please refer the below paper while using the data set.
   <h1>{{ @article{kundu2022passenger,}}</h1>
   <h2>{{ title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},}}</h2>
   <p>{{ author={Kundu, Srimanta and Maulik, Ujjwal}, }}</p>
-  <p>{{ author={Kundu, Srimanta and Maulik, Ujjwal}, }}</p>
+  <p>@article{kundu2022passenger,
+  title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},
+  author={Kundu, Srimanta and Maulik, Ujjwal},
+  journal={Transactions of the Indian National Academy of Engineering},
+  pages={1--15},
+  year={2022},
+  publisher={Springer}
+}</p>
 </body>
 </html>
 
