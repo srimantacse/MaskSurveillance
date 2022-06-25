@@ -26,7 +26,7 @@ This data set specially takes care the below use cases
 
 # Citation
 Please refer the below paper while using the data set.
->> Will be updted shortly
+
 @article{kundu2022passenger,
   title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},
   author={Kundu, Srimanta and Maulik, Ujjwal},
