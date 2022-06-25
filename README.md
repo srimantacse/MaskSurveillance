@@ -27,28 +27,4 @@ This data set specially takes care the below use cases
 # Citation
 Please refer the below paper while using the data set.
 
-<html>
-<head></head>
-<body>
-  <h1>{{ @article{kundu2022passenger,}}</h1>
-  <h2>{{ title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},}}</h2>
-  <p>{{ author={Kundu, Srimanta and Maulik, Ujjwal}, }}</p>
-  <p>@article{kundu2022passenger,
-  title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},
-  author={Kundu, Srimanta and Maulik, Ujjwal},
-  journal={Transactions of the Indian National Academy of Engineering},
-  pages={1--15},
-  year={2022},
-  publisher={Springer}
-}</p>
-</body>
-</html>
-
-@article{kundu2022passenger,
-  title={Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System},
-  author={Kundu, Srimanta and Maulik, Ujjwal},
-  journal={Transactions of the Indian National Academy of Engineering},
-  pages={1--15},
-  year={2022},
-  publisher={Springer}
-}
+Kundu, Srimanta, and Ujjwal Maulik. "Passenger Surveillance Using Deep Learning in Post-COVID-19 Intelligent Transportation System." Transactions of the Indian National Academy of Engineering (2022): 1-15.
