@@ -21,10 +21,7 @@ This data set specially takes care the below use cases
 <img width="620" height="250" src="samples/sample_2.PNG"/>
 
 ## Samples videos of on-rad mask detection
-
-||||
-| :-----: | :-: | :-: |
-| ![Real Road Sample 1](samples/sample_1.gif) [sample_1](https://github.com/srimantacse/MaskSurveillance/videos/sample_1.mp4) |||
+![Real Road Sample 1](samples/sample_1.gif) [sample_1](https://github.com/srimantacse/MaskSurveillance/videos/sample_1.mp4)
 
 
 # Citation
