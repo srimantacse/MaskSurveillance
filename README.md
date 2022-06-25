@@ -20,6 +20,13 @@ This data set specially takes care the below use cases
 # On-road surveillance image sample
 <img width="620" height="250" src="samples/sample_2.PNG"/>
 
+## Samples videos of on-rad mask detection
+
+||||
+| :-----: | :-: | :-: |
+| ![Real Road Sample 1](samples/sample_1.gif) [sample_1](https://github.com/srimantacse/MaskSurveillance/videos/sample_1.mp4) |||
+
+
 # Citation
 Please refer the below paper while using the data set.
 >> Will be updted shortly
